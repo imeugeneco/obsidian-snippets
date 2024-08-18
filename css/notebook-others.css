@@ -1,0 +1,12 @@
+/* ------------------------------- Alignment ------------------------------- */
+.align-center {
+    text-align: center;
+  }
+  
+/* ------------------------------- Headings ------------------------------- */
+:in(.page-white)  h3 {
+  background-color: #00CC92;
+  color: #ffffff;
+  padding: 5px; 
+  border-radius: 3px; 
+}
